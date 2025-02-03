@@ -58,6 +58,16 @@ Modify the `WaveGrid` component to adjust the grid size and animation speed:
 🎨 **Change Colors:**
 Update the `colors` array in the `WaveGrid` component for a unique gradient effect.
 
+💡 Contribution
+
+Want to improve this project? Follow these steps:
+
+- Fork the repository.
+- Create a new branch for your feature.
+- Make changes and test them.
+- Commit and push your changes.
+- Open a Pull Request for review.
+
 ## 📝 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
