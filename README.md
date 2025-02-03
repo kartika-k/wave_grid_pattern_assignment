@@ -7,11 +7,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-  # Wave Grid Animation
+# Wave Grid Animation
 
 A **dynamic and visually engaging** wave grid animation built with ReactJs and Tailwind CSS.
 
-![Wave Grid Animation](![image](https://github.com/user-attachments/assets/4997ea54-9931-4e71-b9cd-9bcbc004a935))
+![Screenshot 2025-02-04 004117](https://github.com/user-attachments/assets/05b11fa6-b781-4a15-aed6-543df3e333ac)
 
 ## 🚀 Demo
 
